@@ -12,7 +12,7 @@
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with Flutter developer, Android native, java, and Firebase.
 
 - 🔭 I'm a software developer.
-- 🔍 I have 2 live apps: 
+- 🔍 I have 4 live apps: 
   - Zerocash App ([Android version](https://play.google.com/store/apps/details?id=v1.zeroCash&hl=en&gl=US), [iOS version](https://apps.apple.com/eg/app/zerocash/id1547966177))
   - [NARTAQI][Android version](https://play.google.com/store/apps/details?id=com.hashstudio.nartaqy_app)
   - [Quran][Android version](https://play.google.com/store/apps/details?id=com.wazakerdailyaya&gl=DE)
