@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Mahmoud saad 👋</h1>
+<h1 align="center">Hi, I'm Mahmoud 👋</h1>
 <p align="center">
 <!--     <a href="https://twitter.com/mohamed_abusrea"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a> -->
     <a href="https://www.linkedin.com/in/mahmoud-saad-b62240171/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -17,5 +17,5 @@ I'm a software developer who is passionate about creating technology to elevate 
   - [NARTAQI][Android version](https://play.google.com/store/apps/details?id=com.hashstudio.nartaqy_app)
   - [Quran][Android version](https://play.google.com/store/apps/details?id=com.wazakerdailyaya&gl=DE)
   - [Tadween][Android version](https://play.google.com/store/apps/details?id=app.tadween)
-- 💬 Ask me about **ReactJs and Frontend**
+- 💬 Ask me about **Flutter or Android or Ios**
 
